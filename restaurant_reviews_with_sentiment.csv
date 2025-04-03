@@ -1,0 +1,11 @@
+review,VADER Sentiment,TextBlob Sentiment
+The waiter ignored us the whole time. Not coming back.,Negative,Positive
+"Service was very slow, and the waiter was rude.",Negative,Negative
+Average experience. Nothing special.,Negative,Positive
+Loved the ambiance and the staff was friendly.,Positive,Positive
+"The pizza was too salty, and I didnt like it.",Positive,Neutral
+The food was absolutely amazing! Best pasta ever.,Positive,Positive
+"Great food, excellent service, will come again!",Positive,Positive
+"The burger was cold and undercooked, very disappointing.",Negative,Negative
+"The restaurant was clean, but the food was just okay.",Positive,Positive
+"Had an amazing time, highly recommend this place!",Positive,Positive
